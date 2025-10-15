@@ -75,8 +75,7 @@ SWITCH(
 
 *(Attach a dashboard screenshot here or link to your Power BI service)*
 Example:
-
-<img width="1589" height="955" alt="image" src="https://github.com/user-attachments/assets/6364388d-6c3a-48e1-b96e-2ad21bfc47d0" />
+<img width="1588" height="955" alt="Screenshot 2025-10-15 111114" src="https://github.com/user-attachments/assets/7e537ce9-732a-4d48-a1dd-8264d4e74b0d" />
 
 
 
