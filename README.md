@@ -72,11 +72,7 @@ SWITCH(
 
 
 ### 📷 **Dashboard Preview**
-
-*(Attach a dashboard screenshot here or link to your Power BI service)*
-Example:
-<img width="1588" height="955" alt="Screenshot 2025-10-15 111114" src="https://github.com/user-attachments/assets/7e537ce9-732a-4d48-a1dd-8264d4e74b0d" />
-
+<img width="1588" height="955" alt="Screenshot 2025-10-15 111114" src="https://github.com/user-attachments/assets/7363ca8b-c169-4618-80c5-a14afa1ffa50" />
 
 
 ---
