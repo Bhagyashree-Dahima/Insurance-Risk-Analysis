@@ -80,6 +80,8 @@ SWITCH(
 **Bhagyashree Dahima**
 📊 Data Analyst | Excel • SQL • Power BI • Python
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/bhagyashree-dahima-337282291/)
+![Uploading Screenshot 2025-10-15 111114.png…]()
+
 
 
 ## 🚀 **Next Steps**
