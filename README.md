@@ -72,10 +72,8 @@ SWITCH(
 
 
 ### 📷 **Dashboard Preview**
-<img width="1588" height="955" alt="Screenshot 2025-10-15 111114" src="https://github.com/user-attachments/assets/7363ca8b-c169-4618-80c5-a14afa1ffa50" />
+<img width="1588" height="955" alt="Screenshot 2025-10-15 111114" src="https://github.com/user-attachments/assets/cb9cd823-3d20-4c0d-81fd-f77a09087215" />
 
-
----
 
 ### 🧑‍💻 **Developed by**
 
